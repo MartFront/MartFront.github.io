@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MartFront.github.io
+title: Victor Martins
+tagline: Front End And Developer
+description: Bem vindo ao blog do MartFront
+paginate: 10
